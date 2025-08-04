@@ -1,0 +1,14 @@
+{
+  "name": "bigcommerce-addons-app",
+  "version": "0.1.0",
+  "description": "Sample BigCommerce app that provides an Add-Ons widget and backend endpoints.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.3.1"
+  }
+}
